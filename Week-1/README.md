@@ -1,3 +1,6 @@
+### Refer to the 'Assignment-N.ipynb' or 'Assignment-1.py' file for code.
+### Download the 'Assignment-1.html' file to view output, if Anaconda/Python is not installed in your system.
+```d -------------------------------------------------------------------------------------------------------------------------------------- ```
 # Day-3 Assignment-1
 ![Q1](https://github.com/anmol-sinha-coder/LetsUpgrade-AI_ML/blob/master/Week-1/Images/q1.png)
 ![Q2](https://github.com/anmol-sinha-coder/LetsUpgrade-AI_ML/blob/master/Week-1/Images/q2.png)
@@ -14,5 +17,3 @@ ________________________________________________________________________________
 ![Q5](https://github.com/anmol-sinha-coder/LetsUpgrade-AI_ML/blob/master/Week-1/Images/Q5.png)
 
 ____________________________________________________________________________________________________________________________________________________
-### Refer to the 'Assignment-1.ipynb' or 'Assignment-1.py' file for code.
-### Download the 'Assignment-1.html' file to view output, if Anaconda is not installed in your system.
