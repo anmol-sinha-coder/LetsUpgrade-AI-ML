@@ -20,3 +20,8 @@ ________________________________________________________________________________
 ![Q5](https://github.com/anmol-sinha-coder/LetsUpgrade-AI_ML/blob/master/Week-1/Images/Q5.png)
 
 ____________________________________________________________________________________________________________________________________________________
+# Day-5 Assignment-3
+![Q-1](https://github.com/anmol-sinha-coder/LetsUpgrade-AI_ML/blob/master/Week-1/Images/q-1.png)
+![Q-2](https://github.com/anmol-sinha-coder/LetsUpgrade-AI_ML/blob/master/Week-1/Images/q-2.png)
+![Q-3](https://github.com/anmol-sinha-coder/LetsUpgrade-AI_ML/blob/master/Week-1/Images/q-3.png)
+![Q-4](https://github.com/anmol-sinha-coder/LetsUpgrade-AI_ML/blob/master/Week-1/Images/q-4.png)
